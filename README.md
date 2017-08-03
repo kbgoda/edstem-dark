@@ -5,7 +5,7 @@ A clean dark EdStem theme.
   or manually copy and paste the CSS into Stylish.
 
 ## Preview
-![](http://i.imgur.com/Rgb4W0F.png)
+![](http://i.imgur.com/L7etSyz.png)
 
 ## FAQ
 
