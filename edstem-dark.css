@@ -966,4 +966,33 @@
        overflow-y: auto;
        background-color: #252424;
    }
+	
+	/* Stack trace */
+    .stacktrace-content {
+        margin: 10px 0;
+        color: #ffffff;
+        background-color: rgb(34, 34, 34);
+        font-size: 12px;
+        padding: 10px;
+        border-radius: 3px;
+        tab-size: 2;
+    }
+
+    .discuss-landing {
+        background-color: #252424;
+    }
+
+    .dl-layout {
+        color: #ffffff;
+    }
+
+    a.df-new-thread.router-link-exact-active.router-link-active {
+	background-color: #313131;
+	border: #232222;
+	color: white;
+    }	
+   
+    .discuss-filters {
+	background-color: #171616f5;
+    }
 }
