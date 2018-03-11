@@ -1,6 +1,5 @@
-@-moz-document domain("edstem.org")
-{
-	/* Login page */
+@-moz-document domain("edstem.org") {
+/* Login page */
    .start-container {
        background-color: rgba(40, 38, 38, 0.85);
    }
@@ -966,4 +965,57 @@
        overflow-y: auto;
        background-color: #252424;
    }
+
+	/* Stack trace */
+   .stacktrace-content {
+        margin: 10px 0;
+        color: #ffffff;
+        background-color: rgb(34, 34, 34);
+        font-size: 12px;
+        padding: 10px;
+        border-radius: 3px;
+        tab-size: 2;
+	}
+
+    .discuss-landing, .page-heading-container, .res-page-container {
+        background-color: #252424;
+    }
+
+    .dl-layout {
+        color: #ffffff;
+    }
+
+	a.df-new-thread.router-link-exact-active.router-link-active {
+ 	   background-color: #313131;
+       border: #232222;
+       color: white;
+	}
+
+	.discuss-filters {
+       background-color: #171616f5;
+	}
+
+	.app, .notif-header, .notifications.hbm-notif, .df-new-thread {
+    	background-color: #252424;
+    }
+	.df-new-thread {
+		color: #f1f8ff;
+    	fill: #f1f8ff;
+        border: 1px solid rgba(242, 248, 255, 0.25);
+    }
+
+
+	.ed-select {
+        color: #666;
+    }
+
+	.status-message-text, .status-message-subtext {
+    	color: white;
+    }
+
+	.navbar-secondary .navbar-button.pressed {
+    	background-color: #6b6b6b;
+    	color: #000000;
+    	fill: #222222;
+	}
 }
