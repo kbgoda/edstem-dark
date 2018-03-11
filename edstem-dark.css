@@ -967,7 +967,7 @@
    }
 
 	/* Stack trace */
-   .stacktrace-content {
+    .stacktrace-content {
         margin: 10px 0;
         color: #ffffff;
         background-color: rgb(34, 34, 34);
